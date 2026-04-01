@@ -1,12 +1,7 @@
 # Ignore generated images
-*.png
-*.musx
-*.mxl
+
 # Or more specific (better)
-CAmg/melody_transformer/*.png
-BPdc/testMXL/easy/*.musx
-BPdc/testMXL/hard/*.musx
-BPdc/testMXL/medium/*.musx
+
 # Ignore other common generated files
 *.log
 *.tmp
