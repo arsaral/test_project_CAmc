@@ -1,0 +1,40 @@
+HIDDEN ORGANIZATION
+===================
+
+Rows                 : 7
+Columns              : 28
+Total cells          : 196
+Occupied cells       : 89
+Empty cells          : 107
+Occupancy (%)        : 45.41
+
+Longest empty column sequence     : 1
+Longest occupied column sequence  : 15
+
+ROW WITH MAXIMUM DENSITY
+------------------------
+Instrument       String arco
+Occupied                  13
+Total Density          101.0
+Mean Density        7.769231
+
+ROW WITH MINIMUM DENSITY
+------------------------
+Instrument       Brass
+Occupied            10
+Total Density     67.0
+Mean Density       6.7
+
+COLUMN WITH MAXIMUM DENSITY
+---------------------------
+Column             κε(25)
+Occupied                6
+Total Density        59.5
+Mean Density     9.916667
+
+COLUMN WITH MINIMUM DENSITY
+---------------------------
+Column           η(8)
+Occupied            0
+Total Density     0.0
+Mean Density      0.0

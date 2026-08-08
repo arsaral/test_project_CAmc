@@ -1,0 +1,8 @@
+Row,S,D,T,Q,Occupied Cells,Total Density,Mean Density
+Flute,11,4,0,0,15,93.5,6.233
+Oboe,10,0,0,1,11,69.5,6.318
+String gliss.,9,2,1,0,12,80,6.667
+Percussion,7,5,0,0,12,82.5,6.875
+Pizzicato,13,2,1,0,16,99.5,6.219
+Brass,7,3,0,0,10,67,6.7
+String arco,8,3,2,0,13,101,7.769
